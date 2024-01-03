@@ -7,7 +7,7 @@ London Musicals is a Desktop application Made with Java Swing and MySQL database
 
 ## App UI 
 
-![](items/Screenshot 2023-12-17 at 5.34.58 PM.png)
-![](items/Screenshot 2023-12-14 at 7.26.56 AM.png)
-![](items/Screenshot 2023-12-14 at 7.28.59 AM.png)
-![](items/Screenshot 2023-12-14 at 7.30.28 AM.png)
+![](items/Screenshot%202023-12-17%20at%205.34.58%20PM.png)
+![](items/Screenshot%202023-12-14%20at%207.26.56%20AM.png)
+![](items/Screenshot%202023-12-14%20at%207.28.59%20AM.png)
+![](items/Screenshot%202023-12-14%20at%207.30.28%20AM.png)
